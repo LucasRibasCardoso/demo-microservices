@@ -36,7 +36,7 @@ O projeto é composto por **dois microserviços independentes** que se comunicam
 
 ---
 
-![image]()
+![image](assets/infraestrutura.png)
 
 ## Fluxo de Funcionamento
 
@@ -47,7 +47,7 @@ O projeto é composto por **dois microserviços independentes** que se comunicam
 5. [ms-email] → Processa mensagem → [SMTP Gmail]
 6. [ms-email] → Registra envio → [PostgreSQL]
 
-![image.png]()
+![image.png](assets/fluxo.png)
 
 ## Tecnologias utilizadas
 
