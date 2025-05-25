@@ -77,9 +77,9 @@ O projeto é composto por **dois microserviços independentes** que se comunicam
 ### Pré-requisitos
 
 - Java 11 ou superior
-- Maven 3.6+
+- Maven 
 - Conta Gmail com senha de app configurada
-- Conta Cloud AMQP (ou RabbitMQ local)
+- Conta Cloud AMQP
 
 1. **Clone o repositório**
 
